@@ -6,4 +6,4 @@ Soy Licenciada en enfermería con amplia experiencia en el área de salud, busca
 
 # <h3 align=center> ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn) ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn) ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi) ![TextBlob](https://img.shields.io/badge/-TextBlob-333333?style=flat&logo=textblob) ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render) ![Lookerstudio](https://img.shields.io/badge/-Lookerstudio-333333?style=flat&logo=Lokeerstudio) ![PowerBi](https://img.shields.io/badge/-Powerbi-333333?style=flat&logo=Powerbi) ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=GCP) 
 
-![imagen presen](/Imagenes/imagen3gen.PNG)
+![imagen presen](/Luis%20Mary%20Gaince.jpg)
