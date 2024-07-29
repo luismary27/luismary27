@@ -1,4 +1,4 @@
-# ¡Hola! Soy Luis Mary soy una apasionada por el análisis de datos y la resolución de problemas 
+# ¡Hola! Soy Luis Mary soy una apasionada por el análisis de datos y la resolución de problemas.
 
 Estoy entusiasmada por aplicar las habilidades de ciencia de datos para resolver problemas del mundo real y generar un impacto positivo, Competente en Python, Streamlit, GCP, MySQL y herramientas de visualización de datos como Power BI, Tableu y Looker Studio.
 Tengo habilidad para trabajar de forma independiente y en equipo, con excelentes habilidades de comunicación y presentación. capacidad para aprender rápidamente y adaptarse a nuevos entornos.
